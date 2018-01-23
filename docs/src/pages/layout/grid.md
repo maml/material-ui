@@ -11,7 +11,7 @@ This grid creates visual consistency between layouts while allowing flexibility 
 
 The grid system is implemented with the `Grid` component:
 - It uses [CSS’s Flexible Box module](https://www.w3.org/TR/css-flexbox-1/) for high flexibility.
-- There are two type of layout: *containers* and *items*.
+- There are two types of layout: *containers* and *items*.
 - Item widths are set in percentages, so they’re always fluid and sized relative to their parent element.
 - Items have padding to create the spacing between individual items.
 - There are five grid breakpoints: xs, sm, md, lg, and xl.
